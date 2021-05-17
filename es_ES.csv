@@ -421,7 +421,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Unable to get transaction details. Try again later.","No se pueden obtener detalles de la transacción. Inténtelo más tarde.",module,Magento_Authorizenet
 "Electronic payments save the trees.","Los pagos electrónicos salvan a los árboles.",module,Magento_Authorizenet
 "Credit Card Type","Tipo de tarjeta de crédito",module,Magento_Authorizenet
-"Please Select","Bitte auswählen",module,Magento_Authorizenet
+"Please Select","Seleccione",module,Magento_Authorizenet
 "Credit Card Number","Número de tarjeta de crédito",module,Magento_Authorizenet
 "Expiration Date","Fecha de vencimiento",module,Magento_Authorizenet
 "Card Verification Number","Número de verificación de tarjeta",module,Magento_Authorizenet
@@ -503,7 +503,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Deselect all","Anular todas las selecciones",module,Magento_B2b
 "Cancel","Cancelar",module,Magento_B2b
 "Done","Hecho",module,Magento_B2b
-"Please Select","Bitte auswählen",module,Magento_B2b
+"Please Select","Seleccione",module,Magento_B2b
 "%s of %s selected","%s de %s seleccionados",module,Magento_B2b
 "B2B Features","Características B2B",module,Magento_B2b
 "Invalid Form Key. Please refresh the page.","Clave de formulario inválida. Por favor actualice la página.",module,Magento_Backend
@@ -1455,7 +1455,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "exception","excepción",module,Magento_Braintree
 "Payment Information","Información de pago",module,Magento_Braintree
 "Add new card","Agregar nueva tarjeta",module,Magento_Braintree
-"Please Select","Bitte auswählen",module,Magento_Braintree
+"Please Select","Seleccione",module,Magento_Braintree
 "Save this card for future use","Guarde esta tarjeta para usos futuros",module,Magento_Braintree
 "or","o",module,Magento_Braintree
 "Please confirm that you want to delete this credit card","Por favor confirme que desea eliminar esta tarjeta de crédito",module,Magento_Braintree
@@ -7025,7 +7025,7 @@ Plantilla de correo electrónico elegida en función de la devolución del tema 
 "Create Gift Registry","Crear registro de regalo",module,Magento_GiftRegistry
 "State/Province","Estado/provincia",module,Magento_GiftRegistry
 "Please select a region, state or province","Por favor seleccione región, estado o provincia",module,Magento_GiftRegistry
-"Please Select","Bitte auswählen",module,Magento_GiftRegistry
+"Please Select","Seleccione",module,Magento_GiftRegistry
 "View Gift Registry %1","Ve registro de regalo %1",module,Magento_GiftRegistry
 "Share '%1' Gift Registry","Compartir '%1' registro de regalo",module,Magento_GiftRegistry
 "-- Please select --","-- Por favor, seleccione --",module,Magento_GiftRegistry
@@ -9224,7 +9224,7 @@ If field is empty default value localhost will be saved.","Lista de acceso IP se
 "Card Verification Number","Número de verificación de tarjeta",module,Magento_Payment
 "Payment method","Método de pago",module,Magento_Payment
 " is not available. You still can process offline actions."," no está disponible. Usted puede continuar fuera de línea.",module,Magento_Payment
-"Please Select","Bitte auswählen",module,Magento_Payment
+"Please Select","Seleccione",module,Magento_Payment
 "We'll ask for your payment details before you place an order.","Te pediremos pedir los datos de pago antes de hacer un pedido.",module,Magento_Payment
 "--Please Select--","--Por favor seleccione--",module,Magento_Payment
 "Card Verification Number Visual Reference","Referencia visual de número de verificación de tarjeta",module,Magento_Payment
@@ -9602,7 +9602,7 @@ If field is empty default value localhost will be saved.","Lista de acceso IP se
 "PayPal Canceled Reversal","PayPal canceló la revocación",module,Magento_Paypal
 "Error","Error",module,Magento_Paypal
 "Billing Agreement","Acuerdo de pago",module,Magento_Paypal
-"Please Select","Bitte auswählen",module,Magento_Paypal
+"Please Select","Seleccione",module,Magento_Paypal
 "Customer","Cliente",module,Magento_Paypal
 "Created At","Creado en",module,Magento_Paypal
 "Updated At","Actualicado el",module,Magento_Paypal
@@ -16799,3 +16799,4 @@ Loop,Loop
 Thumbnail,Thumbnail
 "Option ID","Option ID"
 Label,Label
+"Please select","Por favor seleccione"
