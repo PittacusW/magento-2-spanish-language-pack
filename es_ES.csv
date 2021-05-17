@@ -3207,7 +3207,7 @@ Tiempo en segundos entre actualizaciones de widgets.,module,Magento_CatalogWidge
 "Zip/Postal Code","Código Postal",module,Magento_Checkout
 "My Cart (1 item)","Mi carrito (1 producto)",module,Magento_Checkout
 "My Cart (%1 items)","Mi carrito (%1 artículos)",module,Magento_Checkout
-"My Cart","Mi cesta",module,Magento_Checkout
+"My Cart","Mi carro",module,Magento_Checkout
 "For delivery questions.","Para preguntas de entrega.",module,Magento_Checkout
 "Customer is already registered","Cliente ya está registrado",module,Magento_Checkout
 "Your session has expired","Tu sesión ha caducado",module,Magento_Checkout
@@ -5714,7 +5714,7 @@ Plantilla de correo electrónico elegida en función de la devolución del tema 
 "was","fue",module,Magento_CustomerSegment
 "was not","no fue",module,Magento_CustomerSegment
 "If Product %1 %2 and matches %3 of these Conditions:","Si producto %1 %2 y %3 coincide con una de estas condiciones:",module,Magento_CustomerSegment
-"Shopping Cart","Cesta",module,Magento_CustomerSegment
+"Shopping Cart","Carro",module,Magento_CustomerSegment
 "Wish List","Lista de deseos",module,Magento_CustomerSegment
 "found","encontrado",module,Magento_CustomerSegment
 "not found","no encontrado",module,Magento_CustomerSegment
@@ -5732,17 +5732,17 @@ Plantilla de correo electrónico elegida en función de la devolución del tema 
 "does not match","no coincide",module,Magento_CustomerSegment
 "is one of","es uno de",module,Magento_CustomerSegment
 "is not one of","no es uno de",module,Magento_CustomerSegment
-"Shopping Cart Total","Total de la Cesta de la Compra",module,Magento_CustomerSegment
+"Shopping Cart Total","Total de la Carro de la Compra",module,Magento_CustomerSegment
 "Subtotal","Subtotal",module,Magento_CustomerSegment
 "Grand Total","Total general",module,Magento_CustomerSegment
 "Tax","Impuestos",module,Magento_CustomerSegment
 "Gift Card","Tarjeta de regalo",module,Magento_CustomerSegment
-"Shopping Cart %1 Amount %2 %3:","Cesta de la Compra %1 Importe %2 %3:",module,Magento_CustomerSegment
+"Shopping Cart %1 Amount %2 %3:","Carro de la Compra %1 Importe %2 %3:",module,Magento_CustomerSegment
 "Unknown quote total specified.","Total especificado de presupuesto desconocido.",module,Magento_CustomerSegment
-"Number of Cart Line Items","Número de Artículos de la Cesta por Línea",module,Magento_CustomerSegment
-"Number of Shopping Cart Line Items %1 %2:","Número de Artículos por línea de la Cesta de la Compra %1 %2:",module,Magento_CustomerSegment
+"Number of Cart Line Items","Número de Artículos de la Carro por Línea",module,Magento_CustomerSegment
+"Number of Shopping Cart Line Items %1 %2:","Número de Artículos por línea de la Carro de la Compra %1 %2:",module,Magento_CustomerSegment
 "Products Quantity","Cantidad de productos",module,Magento_CustomerSegment
-"Shopping Cart Products Qty %1 %2:","Cantidad de Productos de la Cesta de la Compra %1 %2:",module,Magento_CustomerSegment
+"Shopping Cart Products Qty %1 %2:","Cantidad de Productos de la Carro de la Compra %1 %2:",module,Magento_CustomerSegment
 "equals or greater than","igual o mayor que",module,Magento_CustomerSegment
 "equals or less than","igual o menor que",module,Magento_CustomerSegment
 "greater than","mayor que",module,Magento_CustomerSegment
@@ -8753,7 +8753,7 @@ esto no afectará al filtro de precios.",module,Magento_LayeredNavigation
 "No shipping information available","No hay información disponible sobre el envío",module,Magento_NegotiableQuote
 "Select a shipping address from your address book.","Seleccionar dirección de envío de la agenda.",module,Magento_NegotiableQuote
 "Send for Review","Enviar para revisión",module,Magento_NegotiableQuote
-"Proceed to Checkout","Tramitar pedido",module,Magento_NegotiableQuote
+"Proceed to Checkout","Pagar ahora",module,Magento_NegotiableQuote
 "Close quote","Cerrar presupuesto",module,Magento_NegotiableQuote
 "Delete","Borrar",module,Magento_NegotiableQuote
 "Remove item","Quitar artículo",module,Magento_NegotiableQuote
@@ -10621,7 +10621,7 @@ target=""_blank""> DevDocs' Información de la versión</a>.,module,Magento_Rele
 "Virtual Only","Virtual únicamente",module,Magento_Reminder
 "Shopping cart %1 only virtual items","Carrito de compras %1 sólo articulos virtuales",module,Magento_Reminder
 "Wish List","Lista de deseos",module,Magento_Reminder
-"Shopping Cart","Cesta",module,Magento_Reminder
+"Shopping Cart","Carro",module,Magento_Reminder
 "The wish list is not empty and abandoned %1 %2 days and %3 of these conditions match:","La lista de deseos no está vacía y abandonada %1 %2 días y %3 de estas condiciones coinciden:",module,Magento_Reminder
 "The root wish list condition should have a days value of 1 or greater.","La condición de lista de deseos de raíz debe tener un valor de días de 1 o mayor.",module,Magento_Reminder
 "Product Attributes","Atributos del artículo",module,Magento_Reminder
@@ -10806,7 +10806,7 @@ target=""_blank""> DevDocs' Información de la versión</a>.,module,Magento_Rele
 "Orders Report","Informe de pedidos",module,Magento_Reports
 "Shipping Report","Reporte de envíos",module,Magento_Reports
 "Tax Report","Reporte de impuestos",module,Magento_Reports
-"Shopping Cart","Cesta",module,Magento_Reports
+"Shopping Cart","Carro",module,Magento_Reports
 "Abandoned Carts","Carritos abandonados",module,Magento_Reports
 "Customer Shopping Carts","Carros de compras del cliente",module,Magento_Reports
 "Products in Carts","Artikel in Warenkörben",module,Magento_Reports
@@ -11802,7 +11802,7 @@ target=""_blank""> DevDocs' Información de la versión</a>.,module,Magento_Rele
 "Shipping Address","Dirección de envío",module,Magento_Sales
 "Shipping Method","Método de envío",module,Magento_Sales
 "Update Changes","Actualizar los cambios",module,Magento_Sales
-"Shopping Cart","Cesta",module,Magento_Sales
+"Shopping Cart","Carro",module,Magento_Sales
 "Are you sure you want to delete all items from shopping cart?","¿Realmente quiere eliminar todos los artículos del carrito de compras?",module,Magento_Sales
 "Clear Shopping Cart","Vaciar el carrito",module,Magento_Sales
 "Products in Comparison List","Artículos en la lista de comparación",module,Magento_Sales
@@ -12940,8 +12940,8 @@ Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 "[GLOBAL]","[GLOBAL]",module,Magento_ScalableInventory
 "Qty","Cantidad",module,Magento_ScalableInventory
 "Out-of-Stock Threshold","Umbral fuera de Stock",module,Magento_ScalableInventory
-"Minimum Qty Allowed in Shopping Cart","Cantidad Mínima Permitida en la Cesta de Compra",module,Magento_ScalableInventory
-"Maximum Qty Allowed in Shopping Cart","Cantidad Máxima Permitida en la Cesta del Carrito",module,Magento_ScalableInventory
+"Minimum Qty Allowed in Shopping Cart","Cantidad Mínima Permitida en la Carro de Compra",module,Magento_ScalableInventory
+"Maximum Qty Allowed in Shopping Cart","Cantidad Máxima Permitida en el Carrito",module,Magento_ScalableInventory
 "Qty Uses Decimals","La Cantidad Usa Decimales",module,Magento_ScalableInventory
 "Allow Multiple Boxes for Shipping","Permitir varios paquetes para envío",module,Magento_ScalableInventory
 "Backorders","Pedidos pendientes",module,Magento_ScalableInventory
@@ -16401,3 +16401,401 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "The widget %1 is no longer available. Select a different widget.","El widget %1 ya no está disponible. Seleccione un widget diferente.",lib,web
 "First character must be letter.","El primer carácter debe ser una letra.",lib,web
 "The password can't be the same as the email address. Create a new password and try again.","La contraseña no puede ser la misma que la dirección de correo electrónico. Crear una nueva contraseña y vuelva a intentarlo.",lib,web
+"All categories",Categorías
+Day,Día
+Hour,Hora
+Min,Min
+Sec,Seg
+"We can't find products matching the selection.","No hemos encontrado productos que concuerden con la selección."
+"Add to Wish List","Agregar a la lista de deseos"
+"Add to Compare","Comparar"
+"Add to Cart","Agregar al caro"
+"SKU: ","SKU: "
+"In stock","En stock"
+"Out of stock","Sin stock"
+"Load more","Cargar más"
+Qty,Cant
+Decrease,Disminuir
+Increase,Aumentar
+Close,Cerrar
+"Cookie Policy","Política de Cookies"
+"More information","Más información"
+Agree,Aceptar
+"We can't find posts matching the selection.","No hemos encontrados posts con esa información."
+"Posted by:","Publicado por:"
+Categories:,Categorías:
+Tags:,Etiquetas:
+"Read more &#187;","Leer más &#187;"
+Previous,Anterior
+Next,Siguiente
+"Related Posts","Posts relacionados"
+"Related Products","Productos relacionados"
+"Read now","Leer ahora"
+"Read more","Leer más"
+"Share on Twitter","Compartir en Twitter"
+"Share on Facebook","Compartir en Facebook"
+"Pin this","Marcar"
+Categories,Categorías
+"Recent Posts","Posts recientes"
+Search,Buscar
+"Search posts here...","Buscar posts aquí..."
+Compare,Comparar
+"We found other products you might like!","¡Encontramos otros productos que te podrían interesar!"
+"More Choices:","Más opciones:"
+"New Products","Nuevos productos"
+"Check items to add to the cart or","Elegir ítems para añadir al carro o"
+"select all","seleccionar todos"
+"Buy Now","Comprar ahora"
+"More view","Ver más"
+"Less view","Ver menos"
+Day(s),Día(s)
+Hour(s),Hora(s)
+Minute(s),Minuto(s)
+Second(s),Segundo(s)
+"Share on LinkedIn","Compartir en LinkedIn"
+Email,Email
+Rating:,Rating:
+Reviews,Reseñas
+"%1 star","%1 estrella"
+star(s),estrella(s)
+"View all %1 reviews","Ver todas las %1 reseñas"
+"Share on Google Plus","Compartir en Google Plus"
+"Advanced Search","Búsqueda avanzada"
+"Update Cart","Actualizar carro"
+"My Cart","Mi carro"
+"Store Information","Información de la tienda"
+"Hi %1","Hola %1"
+"Sign Out","Cerrar sesión"
+"New customer?","¿Cliente nuevo?"
+"Start Here.","Empieza aquí."
+"Hello %1","Hola %1"
+"Your account","Tu cuenta"
+"My Account","Mi cuenta"
+Password,Contraseña
+"Sign In","Iniciar sesión"
+"Forgot Your Password?","¿Olvidaste tu contraseña?"
+"No account?","¿No tienes cuenta?"
+"Create one here","Crea una aquí"
+Currency:,Moneda:
+"Now Shopping by","Comprando por"
+Remove,Quitar
+"Remove This Item","Quitar ítem"
+"Shop By","Comprar por"
+"Clear All","Quitar todo"
+"Shopping Options","Opciones de compra"
+Newsletter,Boletín
+"Sign Up for Our Newsletter:","Suscríbete a nuestro boletín:"
+"Enter your email address","Ingresa tu email"
+Subscribe,Subscribírse
+"Most Helpful Customer Reviews","Reseñas de nuestros clientes"
+"Write a review","Escribe una reseña"
+By,Por
+on,en
+"Recently Ordered","Ordenados recientemente"
+"Last Ordered Items","Los ítems comprados más recientemente"
+"View All","Ver todo"
+"Search entire store here...","Busca en toda la tienda..."
+"Toggle Nav","Ver menú"
+More,Más
+Home,Inicio
+Cart,Carro
+Account,Cuenta
+Contact,Contacto
+Wishlist,"Lista de deseos"
+Menu,Menú
+Language,Lenguaje
+Welcome,Bienvenido
+"Please login first","Inicia sesión primero"
+"Your Wish List","Tu lista de deseos"
+"You have no item in your wish list.","No hay ítems en la lista de deseos."
+"You must be logged in to manage your wish list.","Debes haber iniciado sesión para ver tu lista de deseos."
+"Login By %1","Ingresar con %1"
+"Sign in with %1","Registrarse con %1"
+"SELLER'S COLLECTION","COLLECCIÓN DEL VENDEDOR"
+"%1 Products","%1 Productos"
+"%1 Product","%1 Producto"
+"Visit Shop","Visitar tienda"
+"positive feedback","reseña positiva"
+"%1 ratings","%1 ratings"
+Price,Precio
+Value,Valor
+Quality,Calidad
+"Contact Seller","Contactar al vendedor"
+"View All %1 Products","Ver todos %1 los productos"
+"Sold By","Vendido por"
+"Your Name","Tu nombre"
+"Your Email","Tu email"
+Subject,Asunto
+"Your Query","Tu búsqueda"
+"Please enter desired result","Ingrese el resultado deseado"
+Reset,Reset
+Submit,Enviar
+" Wrong verification number. "," Número de verificación incorrecto. "
+"Your mail has been sent.","El email se ha enviado."
+"Click here to learn about cookies","Click aquí para información sobre cookies"
+"Your cart","Tu carro"
+of,de
+"Item in Cart","Ítem en el carro"
+"Items in Cart","Ítems en el carro"
+Item,Ítem
+Items,Ítems
+"View and edit cart","Ver y editar carro"
+"Recently added item(s)","Ítem(s) recientemente añadidos"
+"You have no items in your shopping cart.","No tienes ítems en el carro."
+"Keep Shopping","Continuar comprando"
+"Go to Checkout","Ir al Checkout"
+Edit,Editar
+"See Details","Ver detalles"
+"Options Details","Detalles"
+"See price before order confirmation.","Ver precio antes de confirmar la orden."
+Update,Actualizar
+"Your cart is empty","Tu carro está vacío"
+"item in your cart","item en tu carro"
+"items in your cart","items en tu carro"
+"Quick Overview","Vista rápida"
+"Need Help?","¿Necesitas ayuda?"
+"Please login first?","Por favor inicia sesión"
+"You must be logged in to manage your wishlist.","Debes haber iniciado sesión para ver tu lista de deseos."
+"My account","Mi cuenta"
+"My Orders","Mis órdenes"
+"Contact Us","Contáctanos"
+"Hello, sign in","Inciar sesión"
+"You added %1 to your shopping cart.","Añadiste %1 a tu carro."
+"We can't add this item to your shopping cart right now.","No hemos podido añadir el ítem a tu carro."
+"Out of stock","Sin stock"
+"Your session has expired.","Tu sesión ha expirado."
+"You added product %1 to the <a href=""%2"">comparison list</a>.","Añadiste el producto %1 a la <a href=""%2"">lista de comparación</a>."
+"We can't add this item to your comparison list right now.","No hemos podido añadir el ítem a la lista de comparación."
+"Something went wrong  clearing the comparison list.","Algo salió mal."
+"You cleared the comparison list.","Limpiaste la lista de comparación."
+"We can't remove the item from comparison list right now.","No hemos podido quitar el ítem de la lista de comparación."
+"You removed product %1 from the comparison list.","Removiste el producto %1 de la lista de comparación."
+"We can't add the item to Wish List right now.","No podemos añadir este ítem a tu lista de deseos."
+"We can't specify a product.","No podemos especificar un producto."
+"%1 has been added to your Wish List.","%1 ha sido añadido a tu lista de deseos."
+"We can't add the item to Wish List right now: %1.","No podemos añadir este ítem a tu lista de deseos: %1."
+"Page not found.","Página no encontrada."
+"The cart item doesn't exist.","El ítem no existe."
+"%1 has been moved to your wish list.","%1 ha sido removido de tu lista de deseos."
+"We can't move the item to the wish list.","No podemos añadir el ítem a tu lista de deseos."
+"Your cart is empty.","Tu carro está vacío."
+"All items have been moved to your wish list.","Todos los ítems han sido añadidos a tu lista de deseos."
+"Item not found.","Ítem no encontrado."
+"%1 has been removed from your Wish List.","%1 ha sido removido de tu lista de deseos."
+"We can't delete the item from Wish List right now because of an error: %1.","Ha ocurrido un error: %1."
+"We can't delete the item from the Wish List right now.","No podemos quitar este ítem de tu lista de deseos."
+"We can't specify a wish list.","No podemos especificar una lista de deseos."
+"%1 has been updated in your Wish List.","%1 ha sido actualizado en tu lista de deseos."
+"We can't update your Wish List right now.","No podemos actualizar tu lista de deseos."
+"Show informed popup","Mostrar popup"
+"Make product image fly to footer cart panel","Make product image fly to footer cart panel"
+"Make product image fly to cart sidebar","Make product image fly to cart sidebar"
+Email,Email
+Password,Contraseña
+"Sign In","Iniciar sesión"
+"Forgot Your Password?","¿Olvidaste tu contraseña?"
+"New customer?","¿Nuevo cliente?"
+"Start Here.","Empezar aquí."
+"Move all to wish list","Mover todo a la lista de deseos"
+"Move to Wishlist","Mover a la lista de deseos"
+"You have no items in your wish list.","Tu lista de deseos está vacía."
+"Related Products","Productos relacionados"
+"We found other products you might like!","¡Encontramos otros productos que te podrían gustar!"
+"More Choices","Más opciones"
+"New Products","Nuevos productos"
+"Check items to add to the cart or","Revisar ítems a añadir al carro o"
+"select all","seleccionar todos"
+"Add to Cart","Añadir al carro"
+"In stock","En stock"
+"Add to Wish List","Añadir a la lista de deseos"
+"Add to Compare","Añadir para comparar"
+"Your cart","Tu carro"
+of,de
+"Item in Cart","Ítem en el carro"
+"Items in Cart","Ítems en el carro"
+Item,Ítem
+Items,Ítems
+"View and edit cart","Ver y editar carro"
+"Recently added item(s)","Ítem(s) recientemente añadidos"
+"You have no items in your shopping cart.","Tu carro está vacío."
+"Keep Shopping","Continuar comprando"
+"Go to Checkout","Ir al Checkout"
+Remove,Quitar
+Edit,Editar
+"See Details","Ver detalles"
+"Options Details","Opciones"
+Price,Precio
+"See price before order confirmation.","Ver precio antes de confirmar la orden."
+Qty,Cant
+Update,Actualizar
+"Are you sure you would like to remove this item from the shopping cart?","¿Seguro que quieres quitar este ítem de tu carro?"
+"Ajax Shopping Cart","Carro de compras"
+General,General
+Enable,Habilitar
+"If you set ""No"", the theme will use default ajax add to cart features of Magento.","If you set ""No"", the theme will use default ajax add to cart features of Magento."
+"Ajax cart style","Ajax cart style"
+"The used procedure after product added to cart.","The used procedure after product added to cart."
+"Cart Informed Popup","Cart Informed Popup"
+"Display crossell product list","Display crossell product list"
+"Number of crossell products","Number of crossell products"
+"Auto close popup","Auto close popup"
+"Showing Time (seconds)","Showing Time (seconds)"
+"If set ""Yes"" for ""Auto close popup"", the informed popup will be closed automatically after the period defined in this field.","If set ""Yes"" for ""Auto close popup"", the informed popup will be closed automatically after the period defined in this field."
+"Ajax Wishlist and Compare","Ajax Wishlist and Compare"
+"Ajax Wishlist","Ajax Wishlist"
+"Enable Ajax Wishlist","Enable Ajax Wishlist"
+"Ajax Compare","Ajax Compare"
+"Enable Ajax Compare","Enable Ajax Compare"
+Save,Save
+"Save and Continue Edit","Save and Continue Edit"
+"Edit '%1'","Edit '%1'"
+"Edit Brand","Edit Brand"
+"Brand Information","Brand Information"
+"General Information","General Information"
+"Brand Label","Brand Label"
+Active,Active
+Yes,Yes
+No,No
+Description,Description
+"Thumbnail Image","Thumbnail Image"
+"Cover Image","Cover Image"
+"Is Featured","Is Featured"
+"Search Engine Optimization","Search Engine Optimization"
+"URL Key","URL Key"
+"Meta Title","Meta Title"
+"Meta Description","Meta Description"
+"Meta Keyword","Meta Keyword"
+"Brand Manager","Brand Manager"
+"Insert Variable...","Insert Variable..."
+[GLOBAL],[GLOBAL]
+"[STORE VIEW]","[STORE VIEW]"
+"Insert Image","Insert Image"
+"Upload Images","Upload Images"
+"Our Brands","Our Brands"
+Home,Home
+"Go to Home Page","Go to Home Page"
+Brands,Brands
+"Attributes List","Attributes List"
+"Brand image cache was cleared successfully.","Brand image cache was cleared successfully."
+"Something went wrong while clearing image cache.","Something went wrong while clearing image cache."
+"%1 [Attribute: %2]","%1 [Attribute: %2]"
+"Edit Option","Edit Option"
+"Wrong brand specified.","Wrong brand specified."
+"You saved this brand.","You saved this brand."
+"Something went wrong while saving the label.","Something went wrong while saving the label."
+Enabled,Enabled
+Disabled,Disabled
+ASC,ASC
+DESC,DESC
+"Attribute Option Sort Order","Attribute Option Sort Order"
+"%1 doesn't extends \Magento\Framework\Model\AbstractModel","%1 doesn't extends \Magento\Framework\Model\AbstractModel"
+"Attribute '%1' is locked. %2","Attribute '%1' is locked. %2"
+"Edit Options","Edit Options"
+Edit,Edit
+Preview,Preview
+"Use Default Value","Use Default Value"
+"No brand matches your input","No brand matches your input"
+"There is %1 result.","There is %1 result."
+"There are %1 results.","There are %1 results."
+"Featured Brands","Featured Brands"
+"Search brand here","Search brand here"
+"All brands","All brands"
+"Search Brands","Buscar marcas"
+"Type brand here","Escribe la marca aquí"
+Brand,Brand
+"Share on Facebook","Share on Facebook"
+"Share on Twitter","Share on Twitter"
+"Share on LinkedIn","Share on LinkedIn"
+"Share on Pinterest","Share on Pinterest"
+"Shop By","Comprar por"
+"Clear All","Clear All"
+"Shopping Options","Opciones"
+All,All
+"0 - 9","0 - 9"
+"%1 products","%1 products"
+"%1 product","%1 product"
+"There is no brand macthing your select","There is no brand macthing your select"
+"We can't find brands matching the selection.","We can't find brands matching the selection."
+"Shop by brand","Shop by brand"
+Genaral,Genaral
+"Attribute Used as Brand","Attribute Used as Brand"
+"Brand page route name","Brand page route name"
+"<em>E.g.</em>, in regard to the url https://mywebsite.com/<strong>brand</strong>/gucci, the part <strong>brand</strong> is route name.<br />And <strong>https://mywebsite.com/brand</strong> is the <em>All brands</em> page url","<em>E.g.</em>, in regard to the url https://mywebsite.com/<strong>brand</strong>/gucci, the part <strong>brand</strong> is route name.<br />And <strong>https://mywebsite.com/brand</strong> is the <em>All brands</em> page url"
+"Featured Brands Slider","Featured Brands Slider"
+Title,Title
+"Sort by","Sort by"
+"Sort Order","Sort Order"
+"Brand Is Featured by Default","Brand Is Featured by Default"
+"If set Yes, any brand is featured by default. If set No, you need to go to setting page (Codazon > Shop by brand > Manage Brands) of a brand to set ""Featured"" for it.","If set Yes, any brand is featured by default. If set No, you need to go to setting page (Codazon > Shop by brand > Manage Brands) of a brand to set ""Featured"" for it."
+"Display on Left Sidebar of Brand Page","Display on Left Sidebar of Brand Page"
+"Display on Left Sidebar of Search Page","Display on Left Sidebar of Search Page"
+"Display on Left Sidebar of Category Page","Display on Left Sidebar of Category Page"
+"Display on Top of Category Page","Display on Top of Category Page"
+"Brand Search Box","Brand Search Box"
+"All Brands Page","All Brands Page"
+"Page Title","Page Title"
+"Alphabet Table","Alphabet Table"
+"Meta Keywords","Meta Keywords"
+"Display featured brands slider","Display featured brands slider"
+"Display brand search box","Display brand search box"
+"Brand Page","Brand Page"
+"Display brand cover","Display brand cover"
+"Display thumbnail","Display thumbnail"
+"Display description","Display description"
+"Product view page","Product view page"
+"Display brand logo","Display brand logo"
+"Display brand name","Display brand name"
+"Codazon Brand List","Codazon Brand List"
+"Show slider with brand thumbnail image","Show slider with brand thumbnail image"
+"List Style","List Style"
+Slider,Slider
+"Alphabet List","Alphabet List"
+"Static List","Static List"
+"Custom Template","Custom Template"
+"Leave empty to use default template (Slider/Alphabet List/Static List)","Leave empty to use default template (Slider/Alphabet List/Static List)"
+Limit,Limit
+"Leave empty to get all brand","Leave empty to get all brand"
+Collection,Collection
+"Featured brands","Featured brands"
+"Your Alphabet Table","Your Alphabet Table"
+"Eg: a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z","Eg: a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z"
+"Items per column","Items per column"
+"Order by","Order by"
+"Brand Position (Attribute Option Position)","Brand Position (Attribute Option Position)"
+"Order Way","Order Way"
+"Thumbnail Width","Thumbnail Width"
+"Thumbnail Height","Thumbnail Height"
+"Show Slider Dots","Show Slider Dots"
+"Show Slider Arrows","Show Slider Arrows"
+Loop,Loop
+"Slider Autoplay","Slider Autoplay"
+"Slider Autoplay Timeout (milliseconds)","Slider Autoplay Timeout (milliseconds)"
+"Slide Margin","Slide Margin"
+"Stage Padding","Stage Padding"
+"Desktop 1900 view","Desktop 1900 view"
+"Window width ≥ 1900. Default: 8.","Window width ≥ 1900. Default: 8."
+"Desktop 1600 view","Desktop 1600 view"
+"1600 ≤ Window width < 1900. Default: 7.","1600 ≤ Window width < 1900. Default: 7."
+"Desktop 1420 view","Desktop 1420 view"
+"1420 ≤ Window width < 1600. Default: 7.","1420 ≤ Window width < 1600. Default: 7."
+"Desktop 1280 view","Desktop 1280 view"
+"1280 ≤  Window width < 1420. Default: 7.","1280 ≤  Window width < 1420. Default: 7."
+"Desktop Small View","Desktop Small View"
+"980 ≤  Window width < 1280. Default: 3.","980 ≤  Window width < 1280. Default: 3."
+"Tablet Lanscape View","Tablet Lanscape View"
+"768 ≤ Window width < 980. Default: 3.","768 ≤ Window width < 980. Default: 3."
+"Tablet Portrait View","Tablet Portrait View"
+"480 ≤ Window width < 768. Default: 3.","480 ≤ Window width < 768. Default: 3."
+"Mobile Lanscape View","Mobile Lanscape View"
+"320 ≤ Window width < 480. Default: 2.","320 ≤ Window width < 480. Default: 2."
+"Mobile Portrait View","Mobile Portrait View"
+"Window width < 320. Default: 2.","Window width < 320. Default: 2."
+"Add New Attribute","Add New Attribute"
+"Attribute ID","Attribute ID"
+"Attribute Label","Attribute Label"
+"Attribute Code","Attribute Code"
+"Flush Brand Image Cache","Flush Brand Image Cache"
+"Return to Attribute List","Return to Attribute List"
+Thumbnail,Thumbnail
+"Option ID","Option ID"
+Label,Label
